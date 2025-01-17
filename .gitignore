@@ -6,3 +6,4 @@
 *.csproj
 *.sln
 *.unitypackage
+.DS_Store
